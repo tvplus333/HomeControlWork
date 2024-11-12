@@ -17,5 +17,20 @@ internal class Program
                 count++;
             }
         }
+
+        // Готовим новый массив необходимого размера
+        string[] resultArray = new string[count];
+
+        // Далее заполняем подготовленный массив
+        int index = 0;
+        for (int i = 0; i < initialArray.Length; i++)
+        {
+            if (initialArray[i].Length <= 3)
+            {
+                resultArray[index] = initialArray[i];
+                index++;
+            }
+        }
+
     }
 }
