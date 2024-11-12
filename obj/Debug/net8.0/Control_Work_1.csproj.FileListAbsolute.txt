@@ -1,0 +1,14 @@
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\bin\Debug\net8.0\Control_Work_1.exe
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\bin\Debug\net8.0\Control_Work_1.deps.json
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\bin\Debug\net8.0\Control_Work_1.runtimeconfig.json
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\bin\Debug\net8.0\Control_Work_1.dll
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\bin\Debug\net8.0\Control_Work_1.pdb
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.AssemblyInfoInputs.cache
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.AssemblyInfo.cs
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.csproj.CoreCompileInputs.cache
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.dll
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\refint\Control_Work_1.dll
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.pdb
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\Control_Work_1.genruntimeconfig.cache
+C:\Users\teevi\Documents\Обучение\10. Октябрь, 2024\Control_Work_1\obj\Debug\net8.0\ref\Control_Work_1.dll
