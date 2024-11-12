@@ -1,4 +1,9 @@
-﻿// Просим пользователя ввести исходный массив с помощью клавиатуры
+﻿
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        // Просим пользователя ввести исходный массив с помощью клавиатуры
         Console.WriteLine("Пожалуйста, введите все элементы массива через пробел: ");
         string input = Console.ReadLine();
         string[] initialArray = input.Split(' ');
@@ -9,6 +14,8 @@
         {
             if (initialArray[i].Length <= 3)
             {
-                count++
+                count++;
             }
         }
+    }
+}
