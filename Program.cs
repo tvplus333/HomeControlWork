@@ -32,5 +32,9 @@ internal class Program
             }
         }
 
+        // Выводим массив в строку (через запятую)
+        Console.WriteLine("Результат: ");
+        Console.WriteLine(string.Join(", ", resultArray));
+
     }
 }
